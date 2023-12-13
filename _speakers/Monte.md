@@ -1,4 +1,4 @@
 ---
 name: Silvia De Monte
-position: tba
+position: CNRS
 ---

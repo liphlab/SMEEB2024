@@ -1,7 +1,7 @@
 .hero {
 	color: #ffffff;
 	text-align: center;
-	height: 80vh;
+	height: 100vh;
 	min-height: 550px;
 	background-color: #333;
 	background-repeat: no-repeat;
@@ -19,19 +19,19 @@
 }
 
 	p {
-		color: #fff;
+		color: #ffffff;
 	}
 
 	.inner-hero {
 		display: flex;
-		align-items: center;
+		align-items: flex-start;
 		height: 100%;
 	}
 
 	.hero-text-container {
 		width: 600px;
 		text-align: left;
-
+		font-size: 14px; /* Set your desired font size */
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
