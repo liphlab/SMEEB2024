@@ -1,6 +1,6 @@
 ---
 name: Giulio Biroli
-position: CNRS
+position: ENS Paris
 website: "https://www.lpens.ens.psl.eu/giulio-biroli/"
 
 ---
