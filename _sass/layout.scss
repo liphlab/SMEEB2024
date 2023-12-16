@@ -13,10 +13,11 @@
     background-color: #296570; /* Replace with your desired color */
 }
 
-
-.image-section .container.flex {
+.image-column {
+    display: flex;
     flex-direction: column;
 }
+
 
 .text-container {
 	max-width: 750px;
