@@ -10,9 +10,9 @@
 }
 
 
-.highlight {
-    background-color: #296570; /* Replace with your desired color */
-}
+// .highlight {
+//     background-color: #296570; /* Replace with your desired color */
+// }
 
 .image-column {
     display: flex;
@@ -193,6 +193,8 @@ blockquote:before {
 }
 
 .learn-more {
+	background-color: #296570;
+	padding: 7px;
 	position: absolute;
 	left: 0;
 	bottom: 30px;
