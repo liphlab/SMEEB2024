@@ -15,12 +15,13 @@
 }
 
 .button.alt a {
-	background-color: hsla(170, 100%, 72%, 0.6);
-	border: 2px solid hsl(0, 0%, 100%);
+	background-color: hwb(200 1% 72% / 0.6);
+	// border: 2px solid hsl(0, 0%, 100%);
 	color: hsl(0, 0%, 100%);
 }
 
 .button.alt a:hover {
+	color: black;
 	background: #fff;
 	color: $brand-color;
 	text-shadow: none;
