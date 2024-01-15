@@ -1,6 +1,6 @@
 ---
 name: Prajwal Padmanabha
 position: Università di Padova
-image_path: /images/uniPDlogo.png
-website: "https://www.liphlab.com"
+image_path: /images/organizers/Praj.jpg
+website: "https://prajwalp.github.io"
 ---
