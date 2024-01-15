@@ -262,7 +262,7 @@ blockquote:before {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #ffafaf;
+  background-color: #ffffff;
   min-height: 100vh;
   padding: 100px 0;
   font-family: Jost;
@@ -301,9 +301,13 @@ blockquote:before {
 .timeline-component {
   margin: 0px 20px 20px 20px;
 }
-/* .timeline-left h1{
+.timeline-component h4{
+	height: 25px;
+  }
+.timeline-left h1{
   text-align:right;
-} */
+  background: #fed5b8;
+} 
 
 .timeslot-keynote{
   padding-left:20px;
